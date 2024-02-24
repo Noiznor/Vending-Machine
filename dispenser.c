@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : dispenser.c
-AUTHOR : Cabang Raezan, Juanitee Leesandro, Polotan Genesis
+AUTHOR : Noiznor
 DESCRIPTION : Implementation of stock management functions for the Snack Shop vending machine.
 COPYRIGHT : 2024-02-05
 REVISION HISTORY
