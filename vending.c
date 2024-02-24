@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : vending.c
-AUTHOR : Cabang Raezan, Juanitee Leesandro, Polotan Genesis
+AUTHOR : Noiznor
 DESCRIPTION : Implementation of product purchase operations for the Snack Shop vending machine.
 COPYRIGHT : 2024-02-05
 REVISION HISTORY
