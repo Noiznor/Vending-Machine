@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : main.c
-AUTHOR : Cabang Raezan, Juanite Leesandro, Polotan Genesis
+AUTHOR : Noiznor
 DESCRIPTION : Main program for Snack Shop vending machine
 COPYRIGHT : 2024-02-05
 REVISION HISTORY
