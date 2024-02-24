@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : cashregister.c
-AUTHOR : Cabang Raezan, Juanitee Leesandro, Polotan Genesis
+AUTHOR : Noiznor
 DESCRIPTION : Implementation of the admin menu for the Snack Shop vending machine.
 COPYRIGHT : 2024-02-05
 REVISION HISTORY
