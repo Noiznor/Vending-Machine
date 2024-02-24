@@ -5,7 +5,7 @@
 
 #define NUM_PRODUCTS 5
 #define DATA_FILE "data.dat"
-#define PASSWORD "oten"
+#define PASSWORD "admin12345"
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
